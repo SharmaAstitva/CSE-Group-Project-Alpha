@@ -1,0 +1,4 @@
+pip install opencv
+anaconda
+Jupyter notebook
+python3
